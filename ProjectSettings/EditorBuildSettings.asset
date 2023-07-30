@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Visualisasi Indonesia.unity
+    guid: 8daa4034923b1164dbb42fd009f1d6d8
+  - enabled: 1
+    path: Assets/Scenes/Museum Visualisasi.unity
+    guid: 6c9f48afcf7e547f196039052b5a4354
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c262fe49289804bc4a799bb3d3718de9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e56fb6dccdc414a7ea1e8a712d98e7f8, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: dcbb9edec39124ea4953133146410a15, type: 2}
